@@ -1,2 +1,2 @@
 # tabela-editavel-js
-# Feita com JavaScript
+- Feita com JavaScript
